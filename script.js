@@ -585,6 +585,3 @@ window.validateNumberInput = validateNumberInput;
 console.log('%c🇪🇬 Recycle Egypt', 'font-size: 24px; font-weight: bold; color: #2E7D32;');
 console.log('%cمنصة ذكية لإدارة المخلفات وإشراك المواطنين', 'font-size: 14px; color: #616161;');
 console.log('%cمشروع تعليمي لمسابقة المدارس الثانوية', 'font-size: 12px; color: #9E9E9E;');
-
-
-localStorage.clear();
